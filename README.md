@@ -1,4 +1,6 @@
-### Hey there, code enthusiast! 👋 I'm a passionate developer fueled by the thrill of turning ideas into digital realities. My coding journey is a never-ending adventure, filled with endless possibilities and the satisfaction of crafting elegant solutions. Let's build something amazing together!"
+### Hey there!
+
+Code enthusiast! 👋 I'm a passionate developer fueled by the thrill of turning ideas into digital realities. My coding journey is a never-ending adventure, filled with endless possibilities and the satisfaction of crafting elegant solutions. Let's build something amazing together!"
 
 <!--
 **gevaungr/gevaungr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
