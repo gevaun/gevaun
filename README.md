@@ -1,6 +1,6 @@
 ### Hey there!
 
-Code enthusiast! 👋 I'm a passionate developer fueled by the thrill of turning ideas into digital realities. My coding journey is a never-ending adventure, filled with endless possibilities and the satisfaction of crafting elegant solutions. Let's build something amazing together!"
+I'm Gevaun, a Full Stack Engineer based in Kingston, Jamaica. I build for the web with a design-oriented approach, and develop technologies.
 
 <!--
 **gevaungr/gevaungr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
