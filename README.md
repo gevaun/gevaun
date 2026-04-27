@@ -1,6 +1,5 @@
-### Hey there!
-
-I'm Gevaun, a Full Stack Engineer based in Kingston, Jamaica. I build for the web with a design-oriented approach, and develop technologies.
+Software Engineer. Finance brain. I build full-stack apps, automate workflows, and wire up APIs that actually work.
+Python · Django · React · Node · Express · MongoDB · PostgreSQL · TypeScript · Azure
 
 <!--
 **gevaungr/gevaungr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
